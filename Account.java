@@ -16,12 +16,13 @@ public class Account{
 			end--;
 		}
 		
+		//Change in version1.0 branch
+		
 		if(flag){
 			System.out.println("Palimdrom");
 		}else{
 			System.out.println("NOT-Palimdrom");
 		}
-	
 	}
 }
 
