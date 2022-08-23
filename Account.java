@@ -15,14 +15,9 @@ public class Account{
 			start++;
 			end--;
 		}
-		
-<<<<<<< HEAD
-		//Now added comment in master branch
-=======
+
 		//Change in version1.0 branch
-		//One more comment
->>>>>>> version1.0
-		
+
 		if(flag){
 			System.out.println("Palimdrom");
 		}else{
