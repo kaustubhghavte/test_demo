@@ -19,6 +19,7 @@ public class Account{
 		//Added from github site
 		//Change in version1.0 branch
 
+	//from new
 		if(flag){
 			System.out.println("Palimdrom");
 		}else{
