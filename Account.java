@@ -16,10 +16,7 @@ public class Account{
 			end--;
 		}
 
-		//Added from github site
-		//Change in version1.0 branch
-
-	//from new
+		//added on 13/09/2022 8:33
 		if(flag){
 			System.out.println("Palimdrom");
 		}else{
