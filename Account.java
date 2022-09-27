@@ -15,7 +15,7 @@ public class Account{
 			start++;
 			end--;
 		}
-		
+
 		if(flag){
 			System.out.println("Palimdrom");
 		}else{
