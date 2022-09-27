@@ -16,13 +16,6 @@ public class Account{
 			end--;
 		}
 
-		//added on 13/09/2022 8:33
-
-		// Added on 13-09-2022 8:43- Chetan
-		//Change in version1.0 branch
-		//One more comment
-		//Change in version1 13/08/2022
-
 		if(flag){
 			System.out.println("Palimdrom");
 		}else{
